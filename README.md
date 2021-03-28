@@ -5,7 +5,7 @@ eBook of Moby-Dick; or The Whale, by Herman Melville
 
 Open an .html file with [Github's html preview][1], e.g.
 
-<https://htmlpreview.github.io/?https://github.com/jerzybrzoska/Moby-Dick/raw/main/ch70.html>
+<https://htmlpreview.github.io/?https://github.com/jerzybrzoska/Moby-Dick/blob/main/ch70.html>
 
 
 
