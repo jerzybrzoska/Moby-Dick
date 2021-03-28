@@ -1,4 +1,4 @@
-To Gail Monbelly
+*To Gail Monbelly*
 # Moby-Dick
 eBook of [Moby-Dick; or The Whale][2], by [Herman Melville][3]. The *html.pmd* files are text files annotated in markdown Each such file represents one chapter. The corresponding *.html* files are the 
 product to be read.
