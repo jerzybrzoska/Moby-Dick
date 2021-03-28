@@ -1,7 +1,8 @@
 # Moby-Dick
-eBook of Moby-Dick; or The Whale, by Herman Melville
+eBook of [Moby-Dick; or The Whale][2], by [Herman Melville][3]. The *html.pmd* files are text files annotated in markdown Each such file represents one chapter. The corresponding *.html* files are the 
+product to be read.
 
-#Usage
+## Usage
 
 Open an .html file with [Github's html preview][1], e.g.
 
@@ -10,3 +11,5 @@ Open an .html file with [Github's html preview][1], e.g.
 
 
 [1]: https://htmlpreview.github.io/?
+[2]: https://www.gutenberg.org/ebooks/2701
+[3]: https://en.wikipedia.org/wiki/Herman_Melville
