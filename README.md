@@ -12,6 +12,7 @@ Open an .html file with [Github's html preview][1], e.g.
 ## Contents
 
 [Chapter 70][4]
+
 [Chapter 71][5]
 
 
