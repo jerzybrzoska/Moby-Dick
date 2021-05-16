@@ -29,6 +29,9 @@ Open an .html file with [Github's html preview][1], e.g.
 
 [Chapter 78][12]
 
+[Chapter 79][13]
+
+
 
 
 
@@ -44,3 +47,4 @@ Open an .html file with [Github's html preview][1], e.g.
 [10]: https://htmlpreview.github.io/?https://github.com/jerzybrzoska/Moby-Dick/blob/main/ch76.html
 [11]: https://htmlpreview.github.io/?https://github.com/jerzybrzoska/Moby-Dick/blob/main/ch77.html
 [12]: https://htmlpreview.github.io/?https://github.com/jerzybrzoska/Moby-Dick/blob/main/ch78.html
+[13]: https://htmlpreview.github.io/?https://github.com/jerzybrzoska/Moby-Dick/blob/main/ch79.html
