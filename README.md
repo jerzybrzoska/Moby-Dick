@@ -33,6 +33,9 @@ Open an .html file with [Github's html preview][1], e.g.
 
 [Chapter 82][14]
 
+[Chapter 83][15]
+
+
 Donations would help me to continue developing this project:
 
 Monero (XMR):
@@ -52,3 +55,4 @@ Monero (XMR):
 [12]: https://htmlpreview.github.io/?https://github.com/jerzybrzoska/Moby-Dick/blob/main/ch78.html
 [13]: https://htmlpreview.github.io/?https://github.com/jerzybrzoska/Moby-Dick/blob/main/ch79.html
 [14]: https://htmlpreview.github.io/?https://github.com/jerzybrzoska/Moby-Dick/blob/main/ch82.html
+[15]: https://htmlpreview.github.io/?https://github.com/jerzybrzoska/Moby-Dick/blob/main/ch83.html
